@@ -5,7 +5,7 @@ UMKMart adalah platform e-commerce multi-vendor (marketplace) inovatif yang dira
 Platform ini memfasilitasi transaksi aman, manajemen stok asimetris (pessimistic locking), serta pelaporan komprehensif bagi pembeli, pelaku UMKM (penjual), dan administrator platform.
 
 <div align="center">
-  <h3><a href="https://youtube.com/watch?v=placeholder_link">Tonton Video Demo YouTube Disini</a></h3>
+  <h3><a href="https://youtu.be/m0Jk3Y7sNCw">Tonton Video Demo YouTube Disini</a></h3>
 </div>
 
 ---
