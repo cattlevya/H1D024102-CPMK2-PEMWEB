@@ -5,12 +5,12 @@ UMKMart adalah platform e-commerce multi-vendor (marketplace) inovatif yang dira
 Platform ini memfasilitasi transaksi aman, manajemen stok asimetris (pessimistic locking), serta pelaporan komprehensif bagi pembeli, pelaku UMKM (penjual), dan administrator platform.
 
 <div align="center">
-  <h3><a href="https://youtube.com/watch?v=placeholder_link">📹 Tonton Video Demo YouTube Disini</a></h3>
+  <h3><a href="https://youtube.com/watch?v=placeholder_link">Tonton Video Demo YouTube Disini</a></h3>
 </div>
 
 ---
 
-## 🏗 Tech Stack
+## Tech Stack
 
 Proyek ini menggunakan spesifikasi modern dengan fondasi:
 * **Framework:** Laravel 13
